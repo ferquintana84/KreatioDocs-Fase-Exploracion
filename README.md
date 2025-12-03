@@ -94,7 +94,6 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
 ### Material Gratuito y Acceso a Recursos
 
 - **Tutoriales Interactivos en Español**: Accede a tutoriales gratuitos en *KreatioDocs*.
-- **Material Complementario en GitHub**: Visita nuestro repositorio [nombre del repo](link al repo) para más recursos.
 
 <aside>
     <a href="https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git">
