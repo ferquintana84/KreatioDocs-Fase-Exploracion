@@ -112,28 +112,6 @@ Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscrip
 - 📖 **Recursos Premium**
 - 🎁 **Promociones Únicas**
 
-### Mantente Conectado
-
-Síguenos y participa en nuestras comunidades en línea para obtener actualizaciones y compartir tus experiencias:
-
-<p align="center">
-    <a href="" style="text-decoration: none; color: inherit;">
-        <img src="img/medium.png" alt="Medium" width="40px" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="" style="text-decoration: none; color: inherit;">
-        <img src="img/linkedin.png" alt="LinkedIn" width="40px" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="" style="text-decoration: none; color: inherit;">
-        <img src="img/facebook.png" alt="Facebook" width="40px" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="" style="text-decoration: none; color: inherit;">
-        <img src="img/instagram.png" alt="Instagram" width="40px" />
-    </a>
-</p>
-
 
 ¡Emprende tu viaje en el mundo de los datos con KreatioLab y transforma tu comprensión del universo digital!
 
