@@ -116,5 +116,3 @@ Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscrip
 ¡Emprende tu viaje en el mundo de los datos con KreatioLab y transforma tu comprensión del universo digital!
 
 ---
-
-![Pie-Pagina.png](img/Pie-Pagina.png)
