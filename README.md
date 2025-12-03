@@ -112,27 +112,24 @@ Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscrip
 - 📖 **Recursos Premium**
 - 🎁 **Promociones Únicas**
 
-Suscríbete en [www.kreatiolab.com](http://www.kreatiolab.com/)
-
-
 ### Mantente Conectado
 
 Síguenos y participa en nuestras comunidades en línea para obtener actualizaciones y compartir tus experiencias:
 
 <p align="center">
-    <a href="http://kreatiolab.medium.com" style="text-decoration: none; color: inherit;">
+    <a href="" style="text-decoration: none; color: inherit;">
         <img src="img/medium.png" alt="Medium" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/company/kreatiolab" style="text-decoration: none; color: inherit;">
+    <a href="" style="text-decoration: none; color: inherit;">
         <img src="img/linkedin.png" alt="LinkedIn" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/kreatiolab.ds" style="text-decoration: none; color: inherit;">
+    <a href="" style="text-decoration: none; color: inherit;">
         <img src="img/facebook.png" alt="Facebook" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/kreatiolab_ds/" style="text-decoration: none; color: inherit;">
+    <a href="" style="text-decoration: none; color: inherit;">
         <img src="img/instagram.png" alt="Instagram" width="40px" />
     </a>
 </p>
