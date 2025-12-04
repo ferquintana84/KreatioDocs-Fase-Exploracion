@@ -101,17 +101,4 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
     </a>
 </aside>
 
-
-### Únete a la Revolución del Conocimiento
-
-Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscriptor, disfrutarás de:
-
-- 📈 **Tendencias en Datos**
-- 🛠️ **Actualizaciones de *KreatioDocs***
-- 📖 **Recursos Premium**
-- 🎁 **Promociones Únicas**
-
-
-¡Emprende tu viaje en el mundo de los datos con KreatioLab y transforma tu comprensión del universo digital!
-
 ---
